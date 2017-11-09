@@ -24,7 +24,7 @@ The selection box allows users to select the index they wat to analyze by clicki
 
 This project is intended to analyze following questions:
 
-1.	Where are the richest companies established? Or, which part of the country has most vitality? 
+**1.	Where are the richest companies established? Or, which part of the country has most vitality?** 
 
 To answer this question, I compared the headcounts and revenues of different years and different industries. I found that different industries distribute in different regions, and as the years change, different industries have different development trends. For example, in 2007, the main distribution area of Manufacture industry is the Five Great Lake area, and the main distribution area of Government Services industry is Washington DC area. In addition, as years past, the main distribution area of Manufacture industry shifted eastward, but for Government Services industry, Washington DC is still the center. 
 
@@ -34,7 +34,7 @@ To answer this question, I compared the headcounts and revenues of different yea
 
 It should be noticed that, to compare the revenues and the headcounts of different industries, not only need to compare the size of bubbles, but also the legend of the bubbles that is marked on the right corner beside the map.  
 
-2.	For a company, is there any correlation between growth and revenue?
+**2.	For a company, is there any correlation between growth and revenue?**
 
 I have plotted two scatter plots about the correlation between growth and revenue of every industry.  The first one is about all the growth and revenue values of these companies within the 10 years. Then, to see the relationship between the two aspects more clearly, I optimized the first plot by removing some of the extreme boundary values and got the second plot. From the two plots, we can draw the conclusion that for a company, the larger the revenue value, the slower the growth rate. 
 
@@ -42,7 +42,7 @@ I have plotted two scatter plots about the correlation between growth and revenu
   <img width="787" alt="figure 2" src="https://user-images.githubusercontent.com/22625392/32587976-afe939be-c4d9-11e7-893d-3dfe4ca9f16b.PNG">
 </p>
 
-3.	Timeline of the development of a given industry?
+**3.	Timeline of the development of a given industry?**
 
 As mentioned earlier, different companies will show different development trends as years past. Using Software industry as an example, after 2011, the overall revenue of Software industry is on the rise. Although through 2012-2013, the revenues of these Software companies has declined, we thought it may be caused by reason that when the revenue reaches a certain level, the growth rate slowed down, as we talked earlier. Here we also need to notice the legend of the bubbles among different years.
 
