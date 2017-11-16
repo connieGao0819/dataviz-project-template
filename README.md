@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project is WPI CS573 Data Visualization course project, intended to visualize annual list of fastest growing private companies from 2007 to 2017 using D3.js. A short video can be found [here].
+This project is WPI CS573 Data Visualization course project, intended to visualize annual list of fastest growing private companies from 2007 to 2017 using D3.js. A short video can be found [here](https://youtu.be/4fyNyu5ZtNA).
 
 ### Data Source
 
